@@ -1,0 +1,1 @@
+export const filePath = './screenwdio.png' 
